@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  tesseract-ocr:
+    git: https://github.com/dannnylo/tesseract-ocr-crystal.git
+    version: 0.1.2+git.commit.6d56442ef02deb3eb80adc78b2b0027007be2a2f
+

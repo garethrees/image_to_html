@@ -1,0 +1,20 @@
+name: image_to_html
+version: 0.1.0
+
+authors:
+  - Gareth Rees <gareth@garethrees.co.uk>
+
+description: |
+  OCR an image and output HTML containing the image and its extracted text
+
+targets:
+  image_to_html:
+    main: src/image_to_html.cr
+
+crystal: 1.2.2
+
+license: MIT
+
+dependencies:
+  tesseract-ocr:
+    github: dannnylo/tesseract-ocr-crystal
