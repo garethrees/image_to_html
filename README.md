@@ -83,5 +83,5 @@ html = ImageToHtml::Html.new(
 ## Credits
 
 - [Screenotate](https://screenotate.com/) for the inspiration
-- [dannnylo/tesseract-ocr-crystal](https://git.io/JMac3) for the OCR integration
-- [ylansegal/franklin.cr](https://git.io/JMacZ) for the `Makefile`
+- [dannnylo/tesseract-ocr-crystal](https://github.com/dannnylo/tesseract-ocr-crystal) for the OCR integration
+- [ylansegal/franklin.cr](https://github.com/ylansegal/franklin.cr) for the `Makefile`
